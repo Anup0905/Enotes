@@ -1,1 +1,1 @@
-# Enotes
+Notes management system
